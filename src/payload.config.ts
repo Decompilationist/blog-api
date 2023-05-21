@@ -7,7 +7,7 @@ import Users from './collections/Users';
 import Media from './collections/Media';
 
 export default buildConfig({
-  serverURL: 'http://localhost:3000',
+  serverURL: 'https://apiblog-8w5f.onrender.com/',
   admin: {
     user: Users.slug,
   },
