@@ -1,6 +1,6 @@
 {
-  "name": "lojinha",
-  "description": "Payload project created from blog template",
+  "name": "blogzin_cms",
+  "description": "api payload cms para uma aplicação blog",
   "version": "1.0.0",
   "main": "dist/server.js",
   "license": "MIT",
